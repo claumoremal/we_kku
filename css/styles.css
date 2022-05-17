@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+}
+ul li a{
+    color: rgb(224, 28, 28);
+    font-size: 20px;
+}
+ul li{
+    list-style: none;
+    color: blue;
+}
+h2{
+    color: chartreuse;
+}
+
+.textoVerde{
+    color: green;
+}
+
+.textoGrande{
+    font-size: 20px;
+}
+#menuBar{
+    color: blanchedalmond;
+    font-size: 20px;
+}
+
+.portada__nosotrosIndex{
+    border-radius: 15px;
+}
+
+
+
